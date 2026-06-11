@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <rect width="320" height="200" rx="24" fill="#1F3A5F" />
+  <rect x="32" y="36" width="256" height="128" rx="20" fill="#F28C28" />
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" fill="#fff" font-size="28" font-family="Arial, sans-serif">Casio FX-991ES</text>
+</svg>

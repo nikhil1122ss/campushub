@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <rect width="320" height="200" rx="24" fill="#1F3A5F" />
+  <circle cx="160" cy="100" r="72" fill="#F28C28" opacity="0.95" />
+  <text x="160" y="100" dominant-baseline="middle" text-anchor="middle" fill="#fff" font-size="24" font-family="Arial, sans-serif">Starter Kit</text>
+</svg>

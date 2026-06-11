@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200">
+  <rect width="320" height="200" rx="24" fill="#1F3A5F" />
+  <rect x="50" y="48" width="220" height="104" rx="18" fill="#fff" opacity="0.12" />
+  <text x="160" y="100" dominant-baseline="middle" text-anchor="middle" fill="#F28C28" font-size="22" font-family="Arial, sans-serif">Girls Hostel Kit</text>
+</svg>

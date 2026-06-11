@@ -1,0 +1,7 @@
+<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="80" rx="20" fill="#1F3A5F" />
+  <path d="M34 54V26H44L58 45L72 26H82V54H74V37L60 54H52L38 37V54H34Z" fill="#F28C28" />
+  <path d="M100 26H108V48H124V54H100V26Z" fill="#F28C28" />
+  <path d="M140 40C140 34.4772 145.477 29 151.999 29C158.522 29 164 34.4772 164 40C164 45.5228 158.522 51 151.999 51C145.477 51 140 45.5228 140 40ZM150 26C141.163 26 134 33.1634 134 42C134 50.8366 141.163 58 150 58C158.837 58 166 50.8366 166 42C166 33.1634 158.837 26 150 26Z" fill="#FFFFFF" />
+  <text x="25" y="74" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="16" font-weight="700">CampusHub</text>
+</svg>
