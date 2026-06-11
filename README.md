@@ -42,3 +42,20 @@ CampusHub is a student-focused marketplace for engineering tools, hostel essenti
 - Cart and checkout experience
 - Order tracking and admin dashboard pages
 - Prisma database schema for products, orders, referrals, and discounts
+
+## Preview
+
+- Local preview: http://localhost:3000
+- GitHub repository: https://github.com/nikhil1122ss/campushub
+
+## Deployment
+
+This project can be deployed to Vercel or another static hosting service. To deploy with Vercel:
+
+```bash
+cd /workspaces/campushub
+npx vercel login
+npx vercel --prod
+```
+
+After deployment, a public URL will be generated where anyone can access the app.
